@@ -1,0 +1,12 @@
+{
+  "sequence": "Sequence 01",
+  "keep": {
+    "V1": " - Gallery View\\.mp4$",
+    "V2": " - Speaker View\\.mp4$",
+    "V5": " - Shared Screen with Speaker View\\.mp4$",
+    "V6": " - Shared Screen\\.mp4$",
+    "A1": " - Shared Screen with Speaker View\\.mp4$"
+  },
+  "strip_effect": ["AE.ADBE Lumetri", "AE.ADBE Sharpen"],
+  "unlock": true
+}
